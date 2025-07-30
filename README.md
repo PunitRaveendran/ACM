@@ -6,7 +6,7 @@ This repository is a curated journey through multiple challenge cycles focusing 
 | Cycle No. | Title                    | Status       | Link                                                |
 |-----------|--------------------------|--------------|-----------------------------------------------------|
 | 1         | Clean Data Champions     | ✅ Completed | [Cycle 1](https://github.com/PunitRaveendran/ACM/tree/main/Cycle%201)         |
-| 2         | Tweet Sentiment Analysis        | ✅ Completed | [Cycle 2](https://github.com/PunitRaveendran/ACM/tree/main/Cycle%202)                |
+| 2         | Tweet Sentiment Analysis | ✅ Completed | [Cycle 2](https://github.com/PunitRaveendran/ACM/tree/main/Cycle%202)                |
 | 3         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 3](./Cycle_3_[Coming_Soon]/)                |
 | 4         | [To Be Announced]        | ⏳ Upcoming  | [Cycle 4](./Cycle_4_[Coming_Soon]/)                |
 
